@@ -1,4 +1,5 @@
 # Coffee-Shop-Project
+Dashboard.pdf
 Description:
 
 This project focuses on analyzing and visualizing sales performance data from a fictional coffee shop using Microsoft Excel. The dataset includes daily transactional records of items sold, sales amount, customer categories, and payment methods.
